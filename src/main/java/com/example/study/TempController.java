@@ -17,6 +17,6 @@ public class TempController {
     public String tempJsp() {
         // prefix : /WEB-INF/views/
         // suffix : .jsp
-        return "test";
+        return "/test";
     }
 }
